@@ -1,4 +1,5 @@
 # BarberShop Landing Page
+![Website Preview](preview.png)
 
 This is a landing page I created for a fictional premium barber shop.
 
